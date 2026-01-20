@@ -7,6 +7,7 @@ It allows an administrator to add notices and students to view them easily.
 The main purpose of this project is to demonstrate the practical use of data structures.
 
 TECHNOLOGIES USED
+
 Java, Java Swing (GUI), File Handling
 Base64 encoding for password verification
 FILE HANDLING
