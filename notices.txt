@@ -1,0 +1,6 @@
+Holiday|Tomorrow is Holiday dated 25th march 2025|Academic|Holiday|2025-11-11T13:26:42.547108900
+Event|Tomorrow is freshers fest|Events|Fest|2025-11-12T18:39:35.254810900
+tech club|interviews for the club |Clubs|tech|2025-11-13T12:48:29.917254900
+Sports Olympiad|Sukkur IBA is arranging sports olympiad on 25th October 2025|Events|Sports|2025-11-14T02:35:25.579903
+Breast Cancer awareness session|The session will start sharply on 12pm, do attend to gain the awareness|General|Awareness session|25-10-2025
+birthday|happy brithday to mee|Events|hehehe|03/01/2006
